@@ -8,4 +8,4 @@ https://speakerdeck.com/notsurprised/nsysu-isc-2021-internet-of-things
 https://github.com/adi0x90/attifyos
 
 ## Acknowledgements
-Thanks to [LinWZ](https://www.facebook.com/LinWuJhen) & [](https://www.facebook.com/fosxwiz)
+Thanks to [LinWZ](https://www.facebook.com/LinWuJhen) & [evansfy](https://www.facebook.com/fosxwiz)
